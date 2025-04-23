@@ -1,0 +1,7 @@
+/home/user/pawalert/dist/myapp
+/home/user/pawalert/dist/appsettings.Development.json
+/home/user/pawalert/dist/appsettings.json
+/home/user/pawalert/dist/myapp.dll
+/home/user/pawalert/dist/myapp.deps.json
+/home/user/pawalert/dist/myapp.runtimeconfig.json
+/home/user/pawalert/dist/myapp.pdb

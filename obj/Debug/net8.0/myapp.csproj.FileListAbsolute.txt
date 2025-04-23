@@ -27,3 +27,4 @@
 /home/user/pawalert/obj/Debug/net8.0/myapp.pdb
 /home/user/pawalert/obj/Debug/net8.0/myapp.genruntimeconfig.cache
 /home/user/pawalert/obj/Debug/net8.0/ref/myapp.dll
+/home/user/pawalert/obj/Debug/net8.0/myapp.sourcelink.json
